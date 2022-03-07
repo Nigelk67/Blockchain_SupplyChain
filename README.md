@@ -1,4 +1,4 @@
-# Supply chain & data auditing
+# Supply chain
 
 This is a DApp supply chain example project for the Ethereum blockchain. 
 
