@@ -11,3 +11,4 @@ https://rinkeby.etherscan.io/tx/0x9f408181be693587a9cf5cb284e2abf469a1fdcc62aeb4
 - Node.js v17.6.0
 - Truffle v5.5.2
 - Solidity v0.5.16
+- Web3.js v1.5.3
